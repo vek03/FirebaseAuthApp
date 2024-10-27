@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637493482301",
+    "project_id": "vekautenticate",
+    "storage_bucket": "vekautenticate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637493482301:android:b11245123c2c39fd91ab54",
+        "android_client_info": {
+          "package_name": "com.example.vekauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_faBsPqSz5bq8nYkBIhdDouYsE7SJ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
